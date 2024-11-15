@@ -1,0 +1,15 @@
+1. Download XAMPP and Install
+2. Open the XAMPP control panel 
+3. Apache is what I'm using to test and code if you wanna do something else go right ahead.
+ 
+
+Here's the format of the folder and what each folder does
+budget_app/
+├── index.php            # Main page
+├── config.php           # Database configuration
+├── assets/              # Folder for CSS, JS, images
+│   ├── css/
+│   └── js/
+├── includes/            # PHP includes (e.g., header, footer)
+├── models/              # Database models (e.g., user, transaction)
+└── views/               # HTML templates for different pages
